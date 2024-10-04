@@ -1,5 +1,6 @@
 # if there is no git, install git
 sudo apt install git 
+
 (sudo) git clone https://github.com/nikolasdoan/dustin-gpt
 
 # install conda
