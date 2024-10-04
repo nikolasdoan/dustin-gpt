@@ -3,7 +3,7 @@ sudo apt install git
 (sudo) git clone https://github.com/nikolasdoan/dustin-gpt
 
 # install conda
-# https://www.taki.com.tw/blog/how-to-install-anaconda-on-ubuntu/?srsltid=AfmBOopzLE0wh7tKA4E3sE056G_rdSC6NmAlR_BnIcY3l8N6cnCvf-R9
+https://www.taki.com.tw/blog/how-to-install-anaconda-on-ubuntu/?srsltid=AfmBOopzLE0wh7tKA4E3sE056G_rdSC6NmAlR_BnIcY3l8N6cnCvf-R9
 
 conda create --name dustin_gpt python=3.8
 conda activate dustin_gpt 
