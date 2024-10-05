@@ -15,7 +15,7 @@ pip install pyaudio
 pip install -r requirements.txt
 
 # create .env file for API key in the dustin-gpt folder
-echo "OPENAI_API_KEY=<your-secret-api-key>" > .env
+echo "OPENAI_API_KEY=your-secret-api-key" > .env
 
 # run the main file
 python gpt.py
