@@ -1,6 +1,6 @@
 # run this in order
 
-git clone https://github.com/nikolasdoan/dustin-gpt
+git clone --branch ubuntu-24.04 https://github.com/nikolasdoan/dustin-gpt
 
 conda create --name dustin_gpt python=3.8
 
