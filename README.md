@@ -17,4 +17,6 @@ pip install -r requirements.txt
 # in the dustin-gpt folder
 echo "OPENAI_API_KEY=<your-secret-api-key>" > .env
 
-# run gpt.py
+# run the main file
+python gpt.py
+
