@@ -29,7 +29,7 @@ def speech_to_text(wav_file_path):
         transcription = openai.audio.transcriptions.create(
             model="whisper-1", 
             file=audio_file, 
-            prompt = """
+            prompt = """去巡檢
             There are only two languages spoken and can be spoken: English and Traditional Chinese (Taiwan) (zh_tw)."""
         )
     print(transcription.text)
